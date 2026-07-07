@@ -23,17 +23,17 @@ A modern and responsive **Random User Generator** built using **HTML, CSS, and J
 
 ### Light Mode
 
-![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots1.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshot1.png)
 
 ### Dark mode
 
-![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots2.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshot2.png)
 
 ### Resonsive
 
-![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots3.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshot3.png)
 
-![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots4.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshot4.png)
 
 ---
 
