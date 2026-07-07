@@ -100,7 +100,6 @@ The project is optimized for:
 - 💼 Laptop
 - 📱 Tablet
 - 📲 Mobile Devices
-- 
 ---
 
 ## Contributing
