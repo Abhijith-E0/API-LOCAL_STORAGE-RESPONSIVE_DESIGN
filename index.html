@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random User Generator</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+
+    <nav>
+
+        <h1>
+            <i class="fa-solid fa-user"></i>
+            Random User Generator
+        </h1>
+
+        <button id="themeBtn">
+            <i class="fa-solid fa-moon"></i>
+        </button>
+
+    </nav>
+
+    <!-- Main Container -->
+
+    <main class="container">
+
+        <!-- User Card -->
+
+        <div class="user-card">
+
+            <img
+                id="userImage"
+                src=""
+                alt="User Image"
+            >
+
+            <h2 id="userName">
+                Loading...
+            </h2>
+
+            <p id="userEmail"></p>
+
+            <p id="userPhone"></p>
+
+            <p id="userLocation"></p>
+
+            <p id="userAge"></p>
+
+            <div class="buttons">
+
+                <button id="generateBtn">
+                    <i class="fa-solid fa-rotate"></i>
+                    Generate User
+                </button>
+
+                <button id="saveBtn">
+                    <i class="fa-solid fa-heart"></i>
+                    Save
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- Favorite Users -->
+
+        <section class="favorites">
+
+            <div class="favorite-header">
+
+                <h2>Favorite Users</h2>
+
+                <button id="clearFavorites">
+                    Clear All
+                </button>
+
+            </div>
+
+            <div id="favoritesContainer">
+
+                <!-- Favorite users -->
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- Loading -->
+
+    <div id="loader" class="loader hidden">
+
+        <div class="spinner"></div>
+
+    </div>
+
+    <!-- Script -->
+
+    <script src="script.js"></script>
+
+</body>
+</html>
