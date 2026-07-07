@@ -23,17 +23,17 @@ A modern and responsive **Random User Generator** built using **HTML, CSS, and J
 
 ### Light Mode
 
-![light mode](./images/Screenshots1.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots1.png)
 
 ### Dark mode
 
-![dark mode](./images/Screenshots1.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots2.png)
 
 ### Resonsive
 
-![dark mode](./images/Screenshots3.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots3.png)
 
-![dark mode](./images/Screenshots4.png)
+![API-LOCAL_STORAGE-RESPONSIVE_DESIGN](./images/Screenshots4.png)
 
 ---
 
@@ -51,7 +51,7 @@ A modern and responsive **Random User Generator** built using **HTML, CSS, and J
 
 ## Live Demo
 
-live link : 
+live link : https://abhijith-e0.github.io/API-LOCAL_STORAGE-RESPONSIVE_DESIGN/
 
 ## Project Structure
 
